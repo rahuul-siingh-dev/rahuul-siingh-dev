@@ -1,4 +1,4 @@
-Hi 👋 I'm Rahuul
+Hi 👋 I'm Rahuul Siingh
 
 🔹 Backend Developer | Java | FastAPI | MongoDB | REST APIs | Search Systems
 
@@ -13,4 +13,5 @@ Hi 👋 I'm Rahuul
 
 ## Contact
 - LinkedIn: https://in.linkedin.com/in/rahul-kumar-singh-rks
+- GitHub: https://github.com/rahuul-siingh-dev
   
