@@ -1,13 +1,7 @@
-# Backend Service
+Hi 👋 I’m Rahuul
 
-Backend application built using modern frameworks with focus on
-secure APIs, clean architecture, and scalable data access.
+Backend Developer | Java | MongoDB | FastAPI
+I build scalable backend systems and search APIs.
 
-## Tech Stack
-- Java / FastAPI
-- MongoDB
-- REST APIs
-- JWT Authentication
-
-## Status
-Project in progress.
+Pinned Projects:
+- Order Management Search API
