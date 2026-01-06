@@ -12,5 +12,5 @@ Hi 👋 I'm Rahuul
 - [[[Order Management Search API](https://github.com/rahuul-siingh-dev/order_management_search)]] - Scalable backend API with GST calculation and search filters
 
 ## Contact
-- LinkedIn: 
-- Email: 
+- LinkedIn: https://in.linkedin.com/in/rahul-kumar-singh-rks
+  
